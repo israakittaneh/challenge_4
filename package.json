@@ -1,0 +1,25 @@
+{
+  "name": "challenge_4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/israakittaneh/challenge_4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/israakittaneh/challenge_4/issues"
+  },
+  "homepage": "https://github.com/israakittaneh/challenge_4#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.6",
+    "webpack": "^5.0.0-rc.6",
+    "webpack-cli": "^4.2.0"
+  }
+}
